@@ -1,21 +1,23 @@
-mod day01;
-mod day02;
-mod day03;
-mod day04;
-mod day05;
-mod day06;
-mod day07;
-mod day08;
-mod day09;
-mod day10;
-mod day11;
-mod day12;
-mod day13;
-mod day14;
-mod day15;
-mod day16;
-mod day17;
-mod day18;
+// mod day01;
+// mod day02;
+// mod day03;
+// mod day04;
+// mod day05;
+// mod day06;
+// mod day07;
+// mod day08;
+// mod day09;
+// mod day10;
+// mod day11;
+// mod day12;
+// mod day13;
+// mod day14;
+// mod day15;
+// mod day16;
+// mod day17;
+// mod day18;
+// mod day19;
+mod day20;
 
 fn main() {
     // println!("Day 01");
@@ -69,6 +71,12 @@ fn main() {
     // println!("\nDay 17");
     // day17::day17();
 
-    println!("\nDay 18");
-    day18::day18();
+    // println!("\nDay 18");
+    // day18::day18();
+
+    // println!("\nDay 19");
+    // day19::day19();
+
+    println!("\nDay 20");
+    day20::day20();
 }
