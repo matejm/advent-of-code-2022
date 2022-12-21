@@ -20,6 +20,7 @@ mod day17;
 mod day18;
 mod day19;
 mod day20;
+mod day21;
 
 const USAGE : &str = "Usage:\ncargo run --release DAY\n\tor./advent-of-code-2022 DAY\n\nExample:./advent-of-code-2022 13 # run day 13";
 
@@ -49,7 +50,7 @@ fn run(day: u32) {
         18 => day18::day18(),
         19 => day19::day19(),
         20 => day20::day20(),
-        21 => todo!(),
+        21 => day21::day21(),
         22 => todo!(),
         23 => todo!(),
         24 => todo!(),
